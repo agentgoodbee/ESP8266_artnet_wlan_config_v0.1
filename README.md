@@ -1,7 +1,7 @@
 # ESP8266_artnet_wlan_config_v0.1
 
-Wlan Artnet Node for NeoPixel LED stripe
-with Webserver for the a wifi setup server
+wifi artnet aode for neopixel led stripes
+with a webserver for the wifi setup
 
 
 1. install the required libs on your IDE
