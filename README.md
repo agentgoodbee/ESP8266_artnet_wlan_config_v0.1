@@ -12,7 +12,8 @@ with Webserver for the a wifi setup server
 6. connect to the ESP hotspot
    -> insert the ssid and pw from your router
 
-if you want to know that your Node recive a message
+Debug:
+if you want to know if your Node recives a message,
 you can activate the debug section between
 line 105 and 130 -> if a message receive then it will be
 printed at the serial monitor.
