@@ -24,5 +24,5 @@ the softAP name can be changed at line 296.
 
 The websever is only available when the wifi is not connected!
 If you want to reconfigure the wifi, turn off your router!
-After the configuration the server is turned off for
+After the configuration the server will be turned off for
 a better performance.
