@@ -17,3 +17,11 @@ if you want to know if your Node recives a message,
 you can activate the debug section between
 line 105 and 130 -> if a message receive then it will be
 printed at the serial monitor.
+
+Please turn on only one ESP to configure the wifi,
+or specify the name for each device,
+the softAP name can be changed at line 296.
+
+The websever is only available when the wifi is not set!
+After the configuration the server is turned off for
+a better performance.
