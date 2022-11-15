@@ -13,7 +13,7 @@ with a webserver for the wifi setup
    -> insert the ssid and pw of your router
 
 Debug:
-if you want to know if your Node recives a artnet message,
+if you want to know if your Node receives a artnet message,
 you can activate the debug section between
 line 105 and 130 -> if a message receives,
 it will be printed at the serial monitor.
@@ -23,6 +23,6 @@ or specify the name for each device,
 the softAP name can be changed at line 296.
 
 The websever is only available when the wifi is not connected!
-If you want to reconigure the wifi, turn off your router!
+If you want to reconfigure the wifi, turn off your router!
 After the configuration the server is turned off for
 a better performance.
